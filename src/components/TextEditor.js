@@ -95,11 +95,12 @@ const TextEditor = () => {
 
   return (
     <div className="text-editor-container">
+      <label className='TextEditorName'>Text Editor</label>
       <div className="controls">
-        <label>
+        <label className='hii1'>
           Font Family: 
           <select
-            className="select"
+            className="select1"
             value={fontFamily}
             onChange={handleFontFamilyChange}
           >
@@ -109,10 +110,10 @@ const TextEditor = () => {
             ))}
           </select>
         </label>
-        <label>
+        <label className='hii2'>
           Font Weight:
           <select
-            className="select"
+            className="select2"
             value={fontWeight}
             onChange={handleFontWeightChange}
           >

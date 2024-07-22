@@ -5,7 +5,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 1.Clone the code by using git clone cmd or manually copy it.\
 2.Redirect the terminal to the project directory.\
-3.Enter npm start in the terminal.\
+3.Enter npm start in the terminal.
 
 ## Available Scripts
 

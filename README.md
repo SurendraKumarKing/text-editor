@@ -3,9 +3,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 # Steps to run this app 
 
-1.Clone the code by using git clone cmd or manually copy it
-2.Redirect the terminal to the project directory
-3.Enter npm start in the terminal
+1.Clone the code by using git clone cmd or manually copy it.\
+2.Redirect the terminal to the project directory.\
+3.Enter npm start in the terminal.\
 
 ## Available Scripts
 
